@@ -9,7 +9,5 @@
 
 ds,kdqs,k
 test 
-<<<<<<< HEAD
 ...
-=======
->>>>>>> e6c4c5f00ac4db055867866118ffba4a06f1ac51
+;;;
